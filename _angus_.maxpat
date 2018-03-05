@@ -21,12 +21,12 @@
 		"gridsnaponopen" : 1,
 		"objectsnaponopen" : 1,
 		"statusbarvisible" : 2,
-		"toolbarvisible" : 0,
+		"toolbarvisible" : 1,
 		"lefttoolbarpinned" : 2,
 		"toptoolbarpinned" : 2,
 		"righttoolbarpinned" : 2,
-		"bottomtoolbarpinned" : 2,
-		"toolbars_unpinned_last_save" : 15,
+		"bottomtoolbarpinned" : 1,
+		"toolbars_unpinned_last_save" : 7,
 		"tallnewobj" : 0,
 		"boxanimatetime" : 200,
 		"enablehscroll" : 1,
@@ -149,7 +149,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1471.25, 475.5, 50.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 465.0, 521.0, 52.0, 22.0 ],
+					"presentation_rect" : [ 465.0, 521.0, 53.0, 22.0 ],
 					"style" : ""
 				}
 
@@ -11167,7 +11167,7 @@
 ,
 					"style" : "",
 					"text" : "autopattr",
-					"varname" : "u411001698"
+					"varname" : "u615006524"
 				}
 
 			}
@@ -14010,35 +14010,35 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "poly_ampmodfilt.maxpat",
-				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus",
+				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus_dev",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sub-scale.json",
-				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus",
+				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus_dev",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sub-freq_rep-nharm.txt",
-				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus",
+				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus_dev",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sub-freq_rep-25.txt",
-				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus",
+				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus_dev",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sub-freq_nharm.txt",
-				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus",
+				"bootpath" : "~/IRCAM_SYNC/CREAM/MaxPatches/angus_dev",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
