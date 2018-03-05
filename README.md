@@ -42,17 +42,17 @@ All of the parameters can be organized in presets and subsequently recalled and 
 
 * fading between two presets: select [START] / [END] presets and a [FADE] time to dynamically change from a preset to another
 
-* define a preset: 
-- define a sliders and parameters configuration you want to store
-- type the preset name in the text box
-- the software automatically proposes a preset number that can be used (current limit is 60 presets) 
-- hit the [SAVE AS PRESET <n>] button
+* define a preset:<br/>
+define a sliders and parameters configuration you want to store<br/>
+type the preset name in the text box<br/>
+the software automatically proposes a preset number that can be used (current limit is 60 presets)<br/>
+hit the [SAVE AS PRESET <n>] button<br/>
 
-* overwrite a preset (presets from 1 to 9 cannot be modified): 
-- recall a preset
-- define a new sliders and parameters configuration you want to store
-- optionally type a new preset name in the text box
-- hit the [OVERWRITE PRESET <n>] button
+* overwrite a preset (presets from 1 to 9 cannot be modified):<br/>
+recall a preset<br/>
+define a new sliders and parameters configuration you want to store<br/>
+optionally type a new preset name in the text box<br/>
+hit the [OVERWRITE PRESET <n>] button<br/>
 
 * the [SHOW] button provides a list of the available presets and parameters that are controlled
 
